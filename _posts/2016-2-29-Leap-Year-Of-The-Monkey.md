@@ -8,5 +8,3 @@ At some point in the last decade, I semi-consciously started to fork away from m
 1: 
 ![_config.yml]({{ site.baseurl }}/images/end_of_transpacific_line.jpg) "Logo Title Text 1"
 
-![height=2in]({{ site.baseurl }}/images/end_of_transpacific_line.jpg) "Logo Title Text 1"
-
