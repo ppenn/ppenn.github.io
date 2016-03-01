@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Leap Year Indeed
+title: Leap Year of the Monkey
 ---
 
-Blah blah blah
+At some point in the last decade, I semi-consciously started to fork away from mainstream development and into the nichey/enterprisey ESRI Utility GIS space. This is a world largely frozen in time, mostly immune to the prevailing technical winds of the 21st century.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
