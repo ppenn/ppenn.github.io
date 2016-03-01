@@ -11,7 +11,11 @@ In addition to following the, erm, Waterfall project methodology, here's a list 
 
 As a way of at least keeping up with terminology & tools browsing hacker news has been superb. However, it has left me with a headspinning "all the things" feeling. But with my current project winding down, it's time to take a series of leaps forward into whatever is current. Of course, I'm not exactly sure how this works with the fragmentation. 
 
-There is no roadmap but a few things:
+There is no roadmap but a few things
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 * pursue open-source geospatial tech. ESRI has been, and continues to be, a great platform. Sure, it's large and hairy but the company is dedicated to innovation and making things work. But it would be crazy not to gain a deeper understanding of the alternatives, and hopefully see what's better/worse
 * find something(s) concrete to get stuck into. The only way to learn something is by implementing it. These may be proofs-of-concept or something bigger. 
 * if not publicize, at least blog/publish thoughts/ideas/code
